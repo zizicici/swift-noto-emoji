@@ -1,2 +1,3 @@
-# swift-noto-emoji
-Noto Emoji Framework for iOS
+# SwiftNotoEmoji
+
+A description of this package.
