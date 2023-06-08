@@ -6,7 +6,7 @@ Including all SVG from https://github.com/googlefonts/noto-emoji/tree/main/svg .
 
 Use Swift Package Manager add this framework.
 
-`NotoEmoji.getSVG(for: "⚡️") -> Data?`
+`NotoEmoji.getSVG(for: "🚇") -> Data?`
 
 ## Supported minimum iOS version
 
