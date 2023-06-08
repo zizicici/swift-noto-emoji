@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/SwiftNotoEmoji.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		dSZuJBYIrt3cNlwhAyU5Szjvgqk=
+		x+Oc/RfTjmWUvBNhfCpTyKoTUkU=
 		</data>
 		<key>Modules/SwiftNotoEmoji.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/SwiftNotoEmoji.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		feVaoQKTRj4yUTFw3JFi+vnKGPc=
+		sQe3Cqb6hwCtD7UA6S8d0flc+Qs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -13904,7 +13904,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LXjQ2zNGpVoisiry+r4Hi/1i4e8t4KACLss+S+pUZqM=
+			/3gVbTLm8juMoxr+zgkN3t8e2e1bR5uOCAtCyYJBZFk=
 			</data>
 		</dict>
 		<key>Modules/SwiftNotoEmoji.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -13932,7 +13932,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0YnqYqJQPxBfE7ybql4SDp1iIHj/lRHctjQFFSFIDVY=
+			Xpso7+PWHdXbwKT12MHeKa0wcuzgCZU+sWarDGIf4wQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

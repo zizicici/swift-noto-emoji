@@ -120,72 +120,72 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-noto-emoji\/NotoEmoji.swift",
+      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-noto-emoji\/Project\/NotoEmoji.swift",
       "kind": "IntegerLiteral",
       "offset": 252,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-noto-emoji\/NotoEmoji.swift",
+      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-noto-emoji\/Project\/NotoEmoji.swift",
       "kind": "StringLiteral",
       "offset": 279,
       "length": 13,
       "value": "\"not equal 1\""
     },
     {
-      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-noto-emoji\/NotoEmoji.swift",
+      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-noto-emoji\/Project\/NotoEmoji.swift",
       "kind": "BooleanLiteral",
       "offset": 391,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-noto-emoji\/NotoEmoji.swift",
+      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-noto-emoji\/Project\/NotoEmoji.swift",
       "kind": "StringLiteral",
       "offset": 421,
       "length": 11,
       "value": "\"not emoji\""
     },
     {
-      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-noto-emoji\/NotoEmoji.swift",
+      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-noto-emoji\/Project\/NotoEmoji.swift",
       "kind": "IntegerLiteral",
       "offset": 552,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-noto-emoji\/NotoEmoji.swift",
+      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-noto-emoji\/Project\/NotoEmoji.swift",
       "kind": "StringLiteral",
-      "offset": 601,
+      "offset": 606,
       "length": 6,
       "value": "\"fe0f\""
     },
     {
-      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-noto-emoji\/NotoEmoji.swift",
+      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-noto-emoji\/Project\/NotoEmoji.swift",
       "kind": "StringLiteral",
-      "offset": 717,
+      "offset": 673,
       "length": 3,
       "value": "\"_\""
     },
     {
-      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-noto-emoji\/NotoEmoji.swift",
+      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-noto-emoji\/Project\/NotoEmoji.swift",
       "kind": "StringLiteral",
-      "offset": 745,
+      "offset": 701,
       "length": 9,
       "value": "\"emoji_u\""
     },
     {
-      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-noto-emoji\/NotoEmoji.swift",
+      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-noto-emoji\/Project\/NotoEmoji.swift",
       "kind": "StringLiteral",
-      "offset": 908,
+      "offset": 864,
       "length": 5,
       "value": "\"svg\""
     },
     {
-      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-noto-emoji\/NotoEmoji.swift",
+      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-noto-emoji\/Project\/NotoEmoji.swift",
       "kind": "StringLiteral",
-      "offset": 1155,
+      "offset": 1111,
       "length": 13,
       "value": "\"url missing\""
     }
