@@ -1,0 +1,193 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SwiftNotoEmoji",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "NotoEmoji",
+        "printedName": "NotoEmoji",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "NotoEmoji",
+                "printedName": "SwiftNotoEmoji.NotoEmoji",
+                "usr": "s:14SwiftNotoEmoji0bC0C"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14SwiftNotoEmoji0bC0C6sharedACvpZ",
+            "mangledName": "$s14SwiftNotoEmoji0bC0C6sharedACvpZ",
+            "moduleName": "SwiftNotoEmoji",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NotoEmoji",
+                    "printedName": "SwiftNotoEmoji.NotoEmoji",
+                    "usr": "s:14SwiftNotoEmoji0bC0C"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14SwiftNotoEmoji0bC0C6sharedACvgZ",
+                "mangledName": "$s14SwiftNotoEmoji0bC0C6sharedACvgZ",
+                "moduleName": "SwiftNotoEmoji",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "getSVG",
+            "printedName": "getSVG(for:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Data?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Data",
+                    "printedName": "Foundation.Data",
+                    "usr": "s:10Foundation4DataV"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14SwiftNotoEmoji0bC0C6getSVG3for10Foundation4DataVSgSS_tF",
+            "mangledName": "$s14SwiftNotoEmoji0bC0C6getSVG3for10Foundation4DataVSgSS_tF",
+            "moduleName": "SwiftNotoEmoji",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:14SwiftNotoEmoji0bC0C",
+        "mangledName": "$s14SwiftNotoEmoji0bC0C",
+        "moduleName": "SwiftNotoEmoji",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-noto-emoji\/Project\/NotoEmoji.swift",
+      "kind": "IntegerLiteral",
+      "offset": 252,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-noto-emoji\/Project\/NotoEmoji.swift",
+      "kind": "StringLiteral",
+      "offset": 279,
+      "length": 13,
+      "value": "\"not equal 1\""
+    },
+    {
+      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-noto-emoji\/Project\/NotoEmoji.swift",
+      "kind": "BooleanLiteral",
+      "offset": 391,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-noto-emoji\/Project\/NotoEmoji.swift",
+      "kind": "StringLiteral",
+      "offset": 421,
+      "length": 11,
+      "value": "\"not emoji\""
+    },
+    {
+      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-noto-emoji\/Project\/NotoEmoji.swift",
+      "kind": "IntegerLiteral",
+      "offset": 552,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-noto-emoji\/Project\/NotoEmoji.swift",
+      "kind": "StringLiteral",
+      "offset": 606,
+      "length": 6,
+      "value": "\"fe0f\""
+    },
+    {
+      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-noto-emoji\/Project\/NotoEmoji.swift",
+      "kind": "StringLiteral",
+      "offset": 673,
+      "length": 3,
+      "value": "\"_\""
+    },
+    {
+      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-noto-emoji\/Project\/NotoEmoji.swift",
+      "kind": "StringLiteral",
+      "offset": 701,
+      "length": 9,
+      "value": "\"emoji_u\""
+    },
+    {
+      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-noto-emoji\/Project\/NotoEmoji.swift",
+      "kind": "StringLiteral",
+      "offset": 864,
+      "length": 5,
+      "value": "\"svg\""
+    },
+    {
+      "filePath": "\/Users\/cizi\/Documents\/GitHub\/zizicici\/swift-noto-emoji\/Project\/NotoEmoji.swift",
+      "kind": "StringLiteral",
+      "offset": 1111,
+      "length": 13,
+      "value": "\"url missing\""
+    }
+  ]
+}

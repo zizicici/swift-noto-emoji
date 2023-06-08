@@ -1,0 +1,11 @@
+framework module SwiftNotoEmoji {
+  umbrella header "SwiftNotoEmoji.h"
+
+  export *
+  module * { export * }
+}
+
+module SwiftNotoEmoji.Swift {
+  header "SwiftNotoEmoji-Swift.h"
+  requires objc
+}
