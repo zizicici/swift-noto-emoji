@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/SwiftNotoEmoji.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		x+Oc/RfTjmWUvBNhfCpTyKoTUkU=
+		fAb0/v0lVBD12zjs7TBBYc1N3dM=
 		</data>
 		<key>Modules/SwiftNotoEmoji.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		uqQyA6+5U83skRCG/k/aKM3AniY=
+		wDhyDeKwLc/wugTCmd78C5r8+ls=
 		</data>
 		<key>Modules/SwiftNotoEmoji.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,19 +34,19 @@
 		</data>
 		<key>Modules/SwiftNotoEmoji.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		uqQyA6+5U83skRCG/k/aKM3AniY=
+		wDhyDeKwLc/wugTCmd78C5r8+ls=
 		</data>
 		<key>Modules/SwiftNotoEmoji.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		GWtiOeZpsE4Uy8jysEBtuYnrqwU=
+		Q6pr1jCw/9JNYPCbt2wBMsAnCZg=
 		</data>
 		<key>Modules/SwiftNotoEmoji.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		x+Oc/RfTjmWUvBNhfCpTyKoTUkU=
+		fAb0/v0lVBD12zjs7TBBYc1N3dM=
 		</data>
 		<key>Modules/SwiftNotoEmoji.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		yg505B8LBOx5mipy45/bgzxYQy8=
+		/cpRY2vyNsbzHBOTrzcYGdF8sro=
 		</data>
 		<key>Modules/SwiftNotoEmoji.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Modules/SwiftNotoEmoji.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		yg505B8LBOx5mipy45/bgzxYQy8=
+		/cpRY2vyNsbzHBOTrzcYGdF8sro=
 		</data>
 		<key>Modules/SwiftNotoEmoji.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		HcRgi7fFeWC3D4h65oOdviz3Njc=
+		ifywrkyn2K14/vlD0KnUnbUWnx0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -13924,14 +13924,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/3gVbTLm8juMoxr+zgkN3t8e2e1bR5uOCAtCyYJBZFk=
+			pQyL6Od7TSrcGN5F0WbP++RIsQCObTUYhfiyOatlvCc=
 			</data>
 		</dict>
 		<key>Modules/SwiftNotoEmoji.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			59I8/XO02gHULgcUBJ4xEPt4XaMsMdslpSJ0EDnyYag=
+			kr+msaBPy4YSz6QzVKO7LuFv4ENvrukndKaOyNCiTiw=
 			</data>
 		</dict>
 		<key>Modules/SwiftNotoEmoji.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -13945,28 +13945,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			59I8/XO02gHULgcUBJ4xEPt4XaMsMdslpSJ0EDnyYag=
+			kr+msaBPy4YSz6QzVKO7LuFv4ENvrukndKaOyNCiTiw=
 			</data>
 		</dict>
 		<key>Modules/SwiftNotoEmoji.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fEG8hjpiLASG7Fq9U3c2cStpYdMT6vH46sRWP4o8m+Q=
+			oaonz2nxpXj3vDAM3FyHS3aMg1oNRudC2xmgEXHOFsw=
 			</data>
 		</dict>
 		<key>Modules/SwiftNotoEmoji.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/3gVbTLm8juMoxr+zgkN3t8e2e1bR5uOCAtCyYJBZFk=
+			pQyL6Od7TSrcGN5F0WbP++RIsQCObTUYhfiyOatlvCc=
 			</data>
 		</dict>
 		<key>Modules/SwiftNotoEmoji.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bxeJTCuGtWLgMeIj2HxMLk8rw/xFb4zctekuripxqbU=
+			17lBUpZzLC5gtd8W5DCEDsTrXgA7gozSNJPXfWmMSbY=
 			</data>
 		</dict>
 		<key>Modules/SwiftNotoEmoji.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -13980,14 +13980,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bxeJTCuGtWLgMeIj2HxMLk8rw/xFb4zctekuripxqbU=
+			17lBUpZzLC5gtd8W5DCEDsTrXgA7gozSNJPXfWmMSbY=
 			</data>
 		</dict>
 		<key>Modules/SwiftNotoEmoji.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qhqa40s/LXxIenwMbCUuhY57GnO42jFY8ExqBs5cpo4=
+			YAOqNXM5YtJEThM9FQO2FRPOumR44U6+38Be3DeVHB4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

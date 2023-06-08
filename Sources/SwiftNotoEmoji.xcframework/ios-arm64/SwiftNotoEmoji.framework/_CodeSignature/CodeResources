@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/SwiftNotoEmoji.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		x+Oc/RfTjmWUvBNhfCpTyKoTUkU=
+		fAb0/v0lVBD12zjs7TBBYc1N3dM=
 		</data>
 		<key>Modules/SwiftNotoEmoji.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		L6YoVY20Z5hApgVGxnYwQBCoDTk=
+		M6xuKv2RuKdpJi702ddxOwZW9wA=
 		</data>
 		<key>Modules/SwiftNotoEmoji.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/SwiftNotoEmoji.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		L6YoVY20Z5hApgVGxnYwQBCoDTk=
+		M6xuKv2RuKdpJi702ddxOwZW9wA=
 		</data>
 		<key>Modules/SwiftNotoEmoji.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		sQe3Cqb6hwCtD7UA6S8d0flc+Qs=
+		dPokJ1lR3TlyJ6Yh6yhf9I4vT7Q=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -13904,14 +13904,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/3gVbTLm8juMoxr+zgkN3t8e2e1bR5uOCAtCyYJBZFk=
+			pQyL6Od7TSrcGN5F0WbP++RIsQCObTUYhfiyOatlvCc=
 			</data>
 		</dict>
 		<key>Modules/SwiftNotoEmoji.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JfKKFVgjxsYFgIAgW22xjEx+9qTPF8Ykv8eUVOKxnsk=
+			KuajLnu0Zue6vGvlRONPoHzPmFFqGtmvVazFh9V0kiE=
 			</data>
 		</dict>
 		<key>Modules/SwiftNotoEmoji.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -13925,14 +13925,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JfKKFVgjxsYFgIAgW22xjEx+9qTPF8Ykv8eUVOKxnsk=
+			KuajLnu0Zue6vGvlRONPoHzPmFFqGtmvVazFh9V0kiE=
 			</data>
 		</dict>
 		<key>Modules/SwiftNotoEmoji.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Xpso7+PWHdXbwKT12MHeKa0wcuzgCZU+sWarDGIf4wQ=
+			SABaJDUOcWdPsuuPA1KB3L6g0h1oBjTJH2+EvS7mZNI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

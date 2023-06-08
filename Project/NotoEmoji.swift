@@ -5,22 +5,24 @@
 //  Created by Ci Zi on 2023/6/7.
 //
 
-import UIKit
+import Foundation
 
 public class NotoEmoji {
-    public static let shared = NotoEmoji()
-    
-    public func getSVG(for value: String) -> Data? {
-        guard value.count == 1 else {
-            print("not equal 1")
+    public static func getSVG(_ string: String) -> Data? {
+        if let character = string.first, string.count == 1 {
+            return getSVG(character)
+        } else {
             return nil
         }
-        guard value.unicodeScalars.first?.properties.isEmoji == true else {
+    }
+    
+    public static func getSVG(_ character: Character) -> Data? {
+        guard character.unicodeScalars.first?.properties.isEmoji == true else {
             print("not emoji")
             return nil
         }
         
-        let codePoints = value.unicodeScalars.map { String($0.value, radix: 16).lowercased() }.filter { !$0.lowercased().contains("fe0f") }
+        let codePoints = character.unicodeScalars.map { String($0.value, radix: 16).lowercased() }.filter { !$0.lowercased().contains("fe0f") }
         let unicodeString = codePoints.joined(separator: "_")
         let fileName = "emoji_u" + unicodeString
         
