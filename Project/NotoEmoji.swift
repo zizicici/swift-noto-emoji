@@ -22,7 +22,7 @@ public class NotoEmoji {
             return nil
         }
         
-        let codePoints = character.unicodeScalars.map { String($0.value, radix: 16).lowercased() }.filter { !$0.lowercased().contains("fe0f") }
+        let codePoints = character.unicodeScalars.map {  String(format: "%04x", $0.value) }.filter { !$0.contains("fe0f") }
         let unicodeString = codePoints.joined(separator: "_")
         let fileName = "emoji_u" + unicodeString
         
